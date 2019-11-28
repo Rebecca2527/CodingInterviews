@@ -2,7 +2,7 @@ package com.taurus.arr;
 
 /**
  * 
- * @author Taurus   обнГ8:41:13
+ * @author Taurus   обнГ8:41:13 
  *
  */
 public class QuickSort {
